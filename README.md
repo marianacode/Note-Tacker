@@ -1,8 +1,7 @@
-
-
 # Note-Taker
 
-
+<img src="./Assets/Note-Taker.JPG" alt="Note Taker"> 
+    
 # Description
 
 This is an app that allows users to write, save and delete notes. It uses an express backend and saves and retrieve note data from a JSON file.
@@ -23,4 +22,3 @@ https://evening-hamlet-43706.herokuapp.com/
 
 # Usage
  GitHub repo: https://github.com/marianacode/Note-Taker
-
